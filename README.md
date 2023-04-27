@@ -1,1 +1,64 @@
-# explore-ml
+Dependencies:
+
+- tokenizers
+- sentencepiece
+- pytz
+- mpmath
+- monotonic
+- duckdb
+- zstandard
+- urllib3
+- tzdata
+- typing-extensions
+- threadpoolctl
+- sympy
+- sniffio
+- six
+- regex
+- pyyaml
+- python-dotenv
+- pillow
+- packaging
+- numpy
+- networkx
+- MarkupSafe
+- lz4
+- joblib
+- idna
+- httptools
+- h11
+- fsspec
+- filelock
+- colorama
+- charset-normalizer
+- certifi
+- backoff
+- tqdm
+- scipy
+- requests
+- python-dateutil
+- pydantic
+- jinja2
+- hnswlib
+- clickhouse-connect
+- click
+- anyio
+- watchfiles
+- uvicorn
+- torch
+- starlette
+- scikit-learn
+- posthog
+- pandas
+- nltk
+- huggingface-hub
+- transformers
+- torchvision
+- fastapi
+- sentence-transformers
+- chromadb
+
+For Trend analysis
+
+- lxml
+- pytrends
